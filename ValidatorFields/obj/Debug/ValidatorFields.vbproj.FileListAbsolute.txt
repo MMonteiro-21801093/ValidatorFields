@@ -1,0 +1,6 @@
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\bin\Debug\ValidatorFields.dll
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\bin\Debug\ValidatorFields.pdb
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\bin\Debug\ValidatorFields.xml
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\obj\Debug\ValidatorFields.dll
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\obj\Debug\ValidatorFields.xml
+c:\users\mauro monteiro\documents\visual studio 2012\Projects\ValidatorFields\ValidatorFields\obj\Debug\ValidatorFields.pdb
